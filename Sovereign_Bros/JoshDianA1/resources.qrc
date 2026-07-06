@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>GUI/Background whale.png</file>
+        <file>GUI/Bubble.png</file>
+        <file>GUI/Enemy.png</file>
+        <file>GUI/Player1.png</file>
+        <file>GUI/Player1_2.png</file>
+        <file>GUI/Player2.png</file>
+        <file>GUI/Player2_2.png</file>
+        <file>GUI/Tree.png</file>
+        <file>GUI/cloud.png</file>
+        <file>GUI/enemyfish.png</file>
+        <file>GUI/flower.png</file>
+        <file>GUI/jellyfish.png</file>
+        <file>GUI/seeweed.png</file>
+        <file>GUI/walkenemy.png</file>
+        <file>sounds/coin.wav</file>
+        <file>sounds/shoot.wav</file>
+        <file>sounds/jump.wav</file>
+        <file>sounds/level_complete.wav</file>
+        <file>GUI/Friendly.png</file>
+        <file>sounds/grenade.wav</file>
+    </qresource>
+</RCC>
