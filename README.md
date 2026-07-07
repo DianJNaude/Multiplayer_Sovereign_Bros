@@ -1,2 +1,2 @@
 # Multiplayer_Sovereign_Bros
-A 2D multiplayer platform game built with C++ and Qt, featuring single-player, LAN multiplayer, custom physics, enemies, collectibles, and multiple themed levels.
+Fish Jungle – Office vs Ocean is a 2D platform game developed in C++ using the Qt framework. The project features both single-player and LAN multiplayer gameplay, where players navigate themed jungle and ocean levels while avoiding hazards, defeating enemies, collecting items, and progressing through increasingly challenging environments. The game was designed to strengthen object-oriented programming, game development, collision detection, networking, and software engineering skills while demonstrating practical application of Qt's graphics framework.
